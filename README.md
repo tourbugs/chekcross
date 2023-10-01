@@ -1,2 +1,2 @@
-# chekcross
-Testing perpose
+# checkcross
+Testing purpose
